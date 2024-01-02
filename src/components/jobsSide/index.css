@@ -1,0 +1,134 @@
+.jobs-bg-container{
+    background-color: #fafafa;
+    min-height: 1945px;
+    width: 30%;
+    margin-top: 0px;
+    border-left: 1px solid #80808020;
+    margin-bottom: 0px;
+}
+
+.side-overlay{
+    position: absolute;
+    z-index: 100;
+    transform: translateY(190%);
+    margin-left: 10px;
+    font-size: 30px;
+    color: #808080;
+    margin-top: 0px;
+    font-weight: 700;
+    
+
+    
+}
+
+.side-background-text{
+    font-size: 140px;
+    color: #80808015;
+    font-family: "roboto";
+    margin-top: 15px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+
+.side-heading-sec{
+    padding-left: 50px;
+}
+
+.job{
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
+
+.job-title{
+    font-size: 16px;
+    font-weight: 500;
+    color: #4894d2;
+    margin: 0px;
+}
+
+.company-name{
+    font-size: 14px;
+    margin: 0px;
+    margin-top: 8px;
+    color: #808080;
+}
+
+.loc-container{
+    display: flex;
+    /* padding: 0px; */
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+.office-loc-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    /* padding: 0px; */
+    height: 10px;
+    color: #808080;
+    
+}
+
+.work-loc-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 15px;
+    /* padding: 0px; */
+    height: 10px;
+    color: #808080;
+}
+
+.icon-1{
+    font-size: 10px;
+    color: #808080;
+}
+
+.loc{
+    font-size: 13px;
+}
+
+.tags{
+    background-color: white;
+    padding-bottom: 1px;
+}
+
+.line-1{
+    opacity: 20%;
+}
+
+.job-sec{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.check-container{
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 13px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.round-check{
+    border: 1px #80808030 solid;
+    border-radius: 50px;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.v-line{
+    height: 140px;
+    border-left: 1px solid #80808030;
+
+}

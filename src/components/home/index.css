@@ -1,0 +1,39 @@
+.bg-container{
+    display: flex;
+    /* flex-direction: row; */
+    justify-content: flex-start;
+    align-items: flex-start;
+    overflow: hidden;
+}
+
+.main-container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    overflow: hidden;
+}
+
+.sub-container-1{
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden;
+}
+
+.q-sec{
+    width: 70vw;
+}
+
+.j-sec{
+    width: 20%;
+}
+
+.side-menu{
+    height: 100%;
+}
+
+.line-t{
+    margin-top: 10px;
+    margin-bottom: 0px;
+    border: 1px solid #80808010;
+    width: 100%;
+}

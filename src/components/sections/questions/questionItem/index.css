@@ -1,0 +1,102 @@
+.tags{
+    border: 1px #808080 solid;
+    border-radius: 10px;
+    padding: 0px 10px;
+    margin-right: 10px;
+    margin-top: 0px;
+    font-size: 14px;
+    color: #808080;
+    height: fit-content;
+}
+
+.q-bg-container{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.tag-container{
+    display: flex;
+}
+
+.q-text{
+    font-size: 18px;
+    font-weight: 500;
+    font-family: roboto;
+    color: #48a4e0;
+}
+
+.val-container{
+    display: flex;
+}
+
+.q-sec-1{
+    width: 50%;
+}
+
+.v-count-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+/* 
+.a-count-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+} */
+
+.value{
+    font-size: 15px;
+    font-weight: 500;
+    color: #808080;
+}
+
+.in{
+    font-size: 14px;
+    font-weight: 500;
+    color: #808080;
+}
+
+.ic{
+    font-size: 10px;
+    color: #808080;
+}
+
+.line{
+    opacity: 10%;
+}
+
+
+
+.time-ago{
+    color: #808080;
+}
+
+.modified-time-container{
+    display: flex;
+    align-items: center;
+}
+
+.m-icon{
+    color: #F88100;
+    
+}
+
+.m-icon-con{
+    border: 1px solid #808080;
+    border-radius: 50px;
+    width: 17px;
+    height: 17px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 8px;
+
+
+}

@@ -1,0 +1,52 @@
+.nav-container{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    padding-top: 20px;
+    width: 100%;
+}
+
+.sec-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sec-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+
+p{
+    font-size: 15px;
+}
+
+.searchBox{
+    border: none;
+    outline: none;
+}
+
+.icon{
+    color: grey;
+    margin-right: 10px;
+}
+
+
+.profile-pic{
+    width: 38px;
+    overflow: hidden;
+    border-radius: 50px;
+}
+
+.btn-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+    border: none;
+    outline-color: transparent;
+    margin-right: 15px;
+    cursor: pointer;
+}

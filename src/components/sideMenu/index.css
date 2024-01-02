@@ -1,0 +1,38 @@
+.sidemenu-container{
+    min-width: 250px;
+    -webkit-box-shadow: 5px -1px 5px -3px rgba(189,189,189,1);
+-moz-box-shadow: 5px -1px 5px -3px rgba(189,189,189,1);
+box-shadow: 5px -1px 5px -3px rgba(189,189,189,1);
+
+height: 1995px;
+    padding-left: 40px;
+    padding-top: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.logo{
+    width: 200px;
+}
+
+.logo-container{
+    margin-bottom: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

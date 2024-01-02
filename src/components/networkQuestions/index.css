@@ -1,0 +1,23 @@
+.n-question{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+
+.q-logo{
+    width: 40px;
+    height: 40px;
+    margin-right: 20px;
+}
+
+.n-question-text{
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.q-l{
+    width: 80%;
+}
